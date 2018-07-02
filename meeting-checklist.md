@@ -78,15 +78,11 @@ Mvh,
 
 # Post-meeting email
 
-Hi,
+We are so sorry, we are so verry sorry.
 
-Thanks for the meeting [describe when] I wanted to quickly recap on the meeting.
+If there is anything we can do, dont hessitate to contact us, allthough we fully understand if you do not wish to have anything to do with us in the future.
 
-[list action items: what, who, due date]
-
-We also decided that [decisions made]
-
-We also discussed: [recap important discussions]
+Here is the phone number to our legal team and the phone number to our medical emergency staff.
 
 # Post-meeting email
 
