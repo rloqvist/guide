@@ -20,9 +20,11 @@ Bad:
     HELP! Website dosnt work!
 
 Smart:
+
     Submition form, not loading the text on my computer
     
 Smarter:
+    
     Submition form, personal information is not loading, just "pleas wait", affects some people but not all.
 
 ## Provide context
@@ -32,7 +34,7 @@ Consider WHAT the problem is and use the form of data that you think is most rel
 
  * If the problem is with layout, looks or interaction-elements of a program or a web-page a screenshot is probbably the most usefull thing to attach to an error report.
  * If the problem concerns [data or information](https://sv.wikipedia.org/wiki/Information) that is: some info that you are expecting is not appearing or is not correct copying and pasting the text is probably the best choice. This is because it enables us to easily work with the data without having to type it of a screenshot which in turn helps us help you faster. A screenshot might also be relevant but always consider pasting raw text if possible.
- * If you provide a link check if the problem allso occurs if you paste the link in an anonymous browser window. Both since this i since an annonymous browser window is more likely to act like our computers do.
+ * If you provide a link check if the problem also occurs if you paste the link in an anonymous browser window, since an annonymous browser window is more likely to act like our computers do.
  
 ## Volume is not precision
 
