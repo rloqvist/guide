@@ -15,7 +15,7 @@ account, and get invited to the Github project.
 
 The first important thing you will do is probably be your first
 stand-up meeting. You can find more information about our [standup
-meetings here](./standup.org). When a new team member joins we will
+meetings here](./standup.md). When a new team member joins we will
 also do a name-round in addition to the normal standup.
 
 During your first week we will make sure to schedule a visit with our
