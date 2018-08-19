@@ -11,7 +11,7 @@ Loan brokers aren't needed, per se, but they exist because consumers
 don't have the resources (time and effort) to talk to multiple lenders
 themselves. The basic process is as follows:
 
-1. A broker approaches through some channel, for example, their website.
+1. A broker approaches a customer through some channel, for example, their website.
 2. The broker collects the information necessary to apply for the loan
 3. The broker sends the loan to lenders that might be interested.
 4. Each lender makes a decision on whether to extend credit or not,
