@@ -18,6 +18,7 @@ that you can focus on being a good buddy.
 
 # Buddy pairings
 
-| Buddy | Hire |
-|-------|------|
-| ...   | ...  |
+| Buddy     | Hire        |
+|-----------|-------------|
+| @mantono  | @6185541513 |
+| @Torbacka | @machalvan  |
