@@ -10,9 +10,9 @@ recommendations will be made. We bring on new team members because we
 believe that it is the right thing to do, not because you want to earn
 a bonus.
 
-Additionally start dates must be set such that at more than 25% of a
-department is employed onboarding new hires, unless the size of the
-department hiring is two or fewer.
+In addition, no more than 25% of the department should work with
+onboarding at any time, unless the size of the department is two or
+fewer. Hence, start-dates must be set to avoid this.
 
 ## Hiring process
 
@@ -28,7 +28,7 @@ department hiring is two or fewer.
    plans should be discussed. The aim of the meeting is to establish a
    relationship with Klira, at provide a starting point for more
    concrete discussions.
-3. After the first meeting member may, if deemed appropriate for purposes
+3. After the first meeting any member may, if deemed appropriate for purposes
    of fairness and objectivity, be replaced by another team
    member. The hiring committee then decides whether to the next
    phase, reject the candidate, or defer the process to a later
