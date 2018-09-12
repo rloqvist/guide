@@ -10,6 +10,7 @@ policies may be amended and changed in accordance with the [governance policy](g
 - [Being an onboarding-buddy](being-a-buddy.md)
 - [Engineering docs](engineering/)
 - [Vacation & Sickdays](vacation-and-sickdays.md)
+- [Meetings](meetings.md)
 - [Standup meetings](standup.md)
 - [Reporting hours](reporting-hours.md)
 - [Single Responsible Individual (SRI)](single-responsible-individual.md)
