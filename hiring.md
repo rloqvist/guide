@@ -11,7 +11,7 @@ believe that it is the right thing to do, not because you want to earn
 a bonus.
 
 In addition, no more than 25% of the department should work with
-onboarding at any time, unless the size of the department is two or
+onboarding at any time, unless the size of the department is four or
 fewer. Hence, start-dates must be set to avoid this.
 
 ## Hiring process
